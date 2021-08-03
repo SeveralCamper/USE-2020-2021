@@ -15,3 +15,5 @@ while True:
     else:
         print(A)
     A += 1
+
+# Ответ: 81
