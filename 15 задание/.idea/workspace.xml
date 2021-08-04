@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c22bae1d-fdb1-4a26-9af2-d7941184eaa2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Неравенства_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Неравенства_001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +30,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Неравенства_016">
-    <configuration name="Неравенства_012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ДЕЛ_010">
+    <configuration name="ДЕЛ_006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="15 задание" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +43,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Неравенства_012.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЕЛ_006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +52,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Неравенства_013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ДЕЛ_007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="15 задание" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Неравенства_013.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЕЛ_007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Неравенства_014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ДЕЛ_008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="15 задание" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Неравенства_014.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЕЛ_008.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Неравенства_015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ДЕЛ_009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="15 задание" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Уник\Программирование\USE-2020-2021\15 задание\Неравенства_015.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЕЛ_009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Неравенства_016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ДЕЛ_010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="15 задание" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Неравенства_016.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЕЛ_010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Неравенства_016" />
-        <item itemvalue="Python.Неравенства_015" />
-        <item itemvalue="Python.Неравенства_014" />
-        <item itemvalue="Python.Неравенства_013" />
-        <item itemvalue="Python.Неравенства_012" />
+        <item itemvalue="Python.ДЕЛ_010" />
+        <item itemvalue="Python.ДЕЛ_009" />
+        <item itemvalue="Python.ДЕЛ_008" />
+        <item itemvalue="Python.ДЕЛ_007" />
+        <item itemvalue="Python.ДЕЛ_006" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +172,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1628014013943">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1628050806972">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1628014013943" />
-    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1628014013943">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1628050806972" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1628050806972">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1628014013943" />
-    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1628014013942">
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1628050806972" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1628050806972">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1628014013942" />
-    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1628014013943">
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1628050806972" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1628050806972">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1921" height="289" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1628014013943" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1628050806972" />
     <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1628012202649">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -205,9 +204,13 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state width="1921" height="356" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1628012202649" />
-    <state x="656" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1628013404545">
+    <state x="656" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1628050422131">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="656" y="385" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1628013404545" />
+    <state x="656" y="385" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1628050422131" />
+    <state x="769" y="478" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628050520601">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="769" y="478" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.1920.1040@0.40.1920.1040" timestamp="1628050520601" />
   </component>
 </project>
