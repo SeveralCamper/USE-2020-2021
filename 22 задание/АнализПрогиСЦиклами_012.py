@@ -11,6 +11,8 @@ for i in range(1, 10000):
         M = M + 1
         if x % 2 != 0:
             L = L * (x % 8)
-            x = x // 8
-if (L == 3 and M == 21):
-    print(i)
+        x = x // 8
+    if (L == 21 and M == 3):
+        print(i)
+
+# Ответ: 499
