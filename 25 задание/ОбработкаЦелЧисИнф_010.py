@@ -7,4 +7,19 @@
 # 10 48
 
 a = []
-for i in range(95632,95700):
+maxLen = 0
+maxX = 0
+for x in range(84052,84130):
+    d = [1,x]
+    for i in range(2, int(x ** 0.5) + 1):
+        if (x % i == 0):
+            d.append(i)
+            d.append(x // i)
+    d = set(d)
+    if (len(d) > maxLen):
+        maxLen = len(d)
+        maxX = x
+
+print(maxLen, maxX)
+
+# Ответ: 72 84084
